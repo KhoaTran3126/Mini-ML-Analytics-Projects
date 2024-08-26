@@ -1,4 +1,6 @@
-# Introduction
+# TikTok Videos Analysis
+
+## Introduction
 The dataset used consist of information on various reported TikTok videos by users, with each video makes a claim or opinion, and various statistics related to each video. The primary analysis focuses on understanding:
 1. What characteristics are better for separating claim-related videos from opinion-related videos?
 2. Compared to each other, what kind of videos receive more scrutinies from TikTok's moderation?
